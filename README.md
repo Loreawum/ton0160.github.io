@@ -1,7 +1,7 @@
 # curriculumvitae
-##Ejemplo Bootcap Desafío Latam
+## Ejemplo Bootcap Desafío Latam
 
 Tecnologías usadas:
--HTML 5
--CSS 3
--Git
+- HTML 5
+- CSS 3
+- Git
